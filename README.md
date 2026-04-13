@@ -38,24 +38,45 @@ public class NguyenDamKha
 
 ## ⚙️ Tech Stack
 
-### Backend & Core
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,java,php,spring&theme=dark" />
-</div>
 
-### Databases
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=sqlserver,mysql,firebase&theme=dark" />
-</div>
+  <table>
+    <tr>
+      <td align="center" width="25%">
+        <b>Backend & Core</b><br/><br/>
+        <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+        <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+        <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+      </td>
+      <td align="center" width="25%">
+        <b>Databases</b><br/><br/>
+        <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+      </td>
+      <td align="center" width="25%">
+        <b>QA & Tools</b><br/><br/>
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+        <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
+        <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+      </td>
+      <td align="center" width="25%">
+        <b>Client Interfaces</b><br/><br/>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+        <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+      </td>
+    </tr>
+  </table>
 
-### QA & Tools
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,visualstudio,vscode,idea&theme=dark" />
-</div>
-
-### Client Interfaces
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,androidstudio&theme=dark" />
 </div>
 
 ---
@@ -76,8 +97,8 @@ public class NguyenDamKha
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Khanguyen2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khanguyen2005&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Khanguyen2005&theme=tokyonight" alt="GitHub stats" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Khanguyen2005&theme=tokyonight" alt="Top languages by repo" />
 </div>
 
 <div align="center">
