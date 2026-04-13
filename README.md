@@ -20,16 +20,15 @@
 public class NguyenDamKha
 {
     public string Role => "3rd-year Software Engineering student @ HUFLIT";
-    public string CurrentMilestone => "Incoming Backend Developer (.NET) Intern";
-    public string CoreDirection => "Backend Architecture, N-Tier, Clean Architecture";
-    public string Philosophy => "Learn by doing — ship real systems, then optimize them.";
+    public string CurrentMilestone => "Incoming Backend Developer (.NET) Intern (Starting April 20)";
+    public string LearningPath => "Focusing on .NET fundamentals & writing clean code";
+    public string Philosophy => "Learn by doing.";
 
-    public string[] FunFacts => new[]
+    public string[] Interests => new[]
     {
-        "Writes creative stories (Aura farming / Supreme levels).",
-        "Plays table tennis to reset the brain cache.",
-        "Jujutsu Kaisen watcher.",
-        "Runs on 9g-sugar instant coffee."
+        "Reading (Self-improvement & EQ books)",
+        "Table Tennis",
+        "Coffee & Cocoa"
     };
 }
 ```
