@@ -1,14 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=210&section=header&text=Nguyen%20Dam%20Kha&fontSize=46&fontColor=38BDF8&desc=Backend%20Developer%20(.NET)%20%7C%20Software%20Engineering%20Student&descAlignY=66&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=180&section=header&text=Nguyen%20Dam%20Kha&fontSize=44&fontColor=38BDF8&desc=Backend%20Developer%20(.NET)%20%7C%20Software%20Engineering%20Student&descAlignY=70&animation=fadeIn" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=980&lines=3rd-year+Software+Engineering+student+%40+HUFLIT;Incoming+Backend+Developer+%28.NET%29+Intern;Solid+in+OOP+%7C+Learning+Design+Patterns;Exploring+N-Tier+%26+Clean+Architecture" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=980&lines=3rd-year+Software+Engineering+student+%40+HUFLIT;Incoming+Backend+Developer+(.NET)+Intern;Solid+in+OOP+%7C+Learning+Design+Patterns;Exploring+N-Tier+%26+Clean+Architecture" />
 
 <br/>
 
-![](https://img.shields.io/badge/Focus-Backend%20Fundamentals-0F172A?style=for-the-badge&logo=buffer&logoColor=38BDF8)
-![](https://img.shields.io/badge/Exploring-N--Tier%20%26%20Design%20Patterns-111827?style=for-the-badge&logo=framework&logoColor=22D3EE)
-![](https://img.shields.io/badge/Mindset-Learn%20by%20Doing-1E293B?style=for-the-badge&logo=bookstack&logoColor=67E8F9)
+<!-- Focus badges -->
+<img src="https://img.shields.io/badge/Focus-Backend%20Fundamentals-0F172A?style=for-the-badge&logo=buffer&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/Exploring-N--Tier%20%26%20Design%20Patterns-111827?style=for-the-badge&logo=framework&logoColor=22D3EE" />
+<img src="https://img.shields.io/badge/Mindset-Learn%20by%20Doing-1E293B?style=for-the-badge&logo=bookstack&logoColor=67E8F9" />
 
 </div>
 
@@ -31,7 +32,7 @@ public class NguyenDamKha
         "Coffee & Cocoa"
     };
 }
-```
+````
 
 ---
 
@@ -39,41 +40,36 @@ public class NguyenDamKha
 
 <div align="center">
 
-  <table>
-    <tr>
-      <td align="center" width="25%">
-        <b>Backend & Core</b><br/><br/>
-        <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-        <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-      </td>
-      <td align="center" width="25%">
-        <b>Databases</b><br/><br/>
-        <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-      </td>
-      <td align="center" width="25%">
-        <b>QA & Tools</b><br/><br/>
-        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-        <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-        <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
-        <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-      </td>
-      <td align="center" width="25%">
-        <b>Client Interfaces</b><br/><br/>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-        <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-      </td>
-    </tr>
-  </table>
+### **Backend & Core**
+
+<img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/> 
+<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> 
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/> 
+
+### **Databases**
+
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+
+### **Tools**
+
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+
+### **Client Interfaces**
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
 
 </div>
 
@@ -81,32 +77,34 @@ public class NguyenDamKha
 
 ## 🚀 Highlighted Projects
 
-| Project | System Module & Core Features | Stack |
-|---|---|---|
-| 🛄 [**ValiStore**](https://github.com/Khanguyen2005/ValiStore) | Multi-role e-commerce luggage platform with Admin/Customer/Shipper workflows. Includes full checkout, VNPay/PayPal integration, order status management, and real-time Customer↔Shipper chat via SignalR. | ASP.NET MVC 5, EF6, SQL Server, SignalR |
-| 🎬 [**HubCinema-WebUser**](https://github.com/nguyenxuanbac88/HubCinema-WebUser) | Customer-facing cinema booking module for browsing movies, selecting seats/combos, and completing payments. Supports bilingual UI (vi/en), account flow, and ticket/transaction history after payment. | ASP.NET Core MVC (.NET 8), Razor, PayPal, VNPay |
-| 🍔 [**FoodDeliveryApp**](https://github.com/nguyenxuanbac88/FoodDeliveryApp) | Android food-ordering app with auth/session, restaurant-category browsing, cart/checkout, and profile management. Implements Firestore-based order flow and VNPay mobile payment return handling via deep-link callback. | Android (Java), Firebase Auth/Firestore, VNPay SDK |
-| 🧪 [**ResearchManagement**](https://github.com/Khanguyen2005/ResearchManagement) | Distributed database demo with 3 site shards + 1 global layer using SQL Server linked servers. Global `VIEW UNION ALL` + `INSTEAD OF TRIGGER` routes CRUD by department (P1/P2/P3), exposed through a PHP UI for operations and special queries. | SQL Server, Docker, PHP |
-| 💬 [**ChatServer**](https://github.com/Khanguyen2005/ChatServer) | Lightweight .NET TCP chat server that accepts multiple clients asynchronously, sends a welcome message, logs incoming messages, and closes sessions on a shutdown command. Built as a socket programming module with shared protocol constants. | .NET 8, C#, TCP Sockets |
-| 📱 **Android Mini-Projects**<br/>[FlashSale](https://github.com/Khanguyen2005/FalshSale) • [onlineshop](https://github.com/Khanguyen2005/onlineshop) • [QuizApp](https://github.com/Khanguyen2005/QuizApp) | A practice suite covering three modules: Firebase-powered shopping apps (banner/category/product feed, detail, cart, auth/profile) and a Firestore quiz system (Users/Quizzes/Questions/Results, take-quiz, scoring, review). Good hands-on set for UI flow, data binding, and real-time backend integration on Android. | Android (Java), Firebase Realtime DB, Firestore |
+| Project                      | System Module & Core Features                                                                                                | Stack                                           |
+| ---------------------------- | ---------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- |
+| 🛄 **ValiStore**             | Multi-role e-commerce luggage platform (Admin/Customer/Shipper), checkout, VNPay/PayPal, order flow & SignalR realtime chat. | ASP.NET MVC 5, EF6, SQL Server, SignalR         |
+| 🎬 **HubCinema-WebUser**     | Cinema booking: movies, seats, bilingual UI, payments, order history.                                                        | ASP.NET Core MVC (.NET 8), Razor, PayPal, VNPay |
+| 🍔 **FoodDeliveryApp**       | Android ordering app: auth, browsing, cart, Firestore order flow, VNPay deep-link return.                                    | Android (Java), Firebase                        |
+| 🧪 **ResearchManagement**    | Distributed DB with 3 shards + global layer using SQL Server linked servers, PHP UI.                                         | SQL Server, Docker, PHP                         |
+| 💬 **ChatServer**            | Async multiclient TCP chat server with protocol + graceful shutdown.                                                         | .NET 8, C#, TCP Sockets                         |
+| 📱 **Android Mini-Projects** | Firebase shopping apps + Firestore quiz system.                                                                              | Android (Java), Firebase                        |
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center"> <!-- Summary Cards --> <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Khanguyen2005&theme=tokyonight"/> <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Khanguyen2005&theme=tokyonight"/> <!-- Primary Language Highlight -->
+<div align="center">
+
+<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Khanguyen2005&theme=tokyonight"/>
+<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Khanguyen2005&theme=tokyonight"/>
 
 <br/><br/>
+
 <img src="https://img.shields.io/badge/Primary%20Language-C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
 
-<!-- Top Languages -->
+<br/><br/>
+
+<img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Khanguyen2005&layout=compact&theme=tokyonight&langs_count=6&v=2" />
 
 <br/><br/>
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Khanguyen2005&layout=compact&theme=tokyonight&langs_count=6&v=2" />
 
-<!-- Streak -->
-
-<br/><br/>
 <img src="https://streak-stats.demolab.com?user=Khanguyen2005&theme=tokyonight&hide_border=true"/>
 
 </div>
@@ -117,13 +115,15 @@ public class NguyenDamKha
 
 <div align="center">
 
-[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nguyendamkha@gmail.com)
-[![](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nguyendamkha25/)
-[![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/nguyen.am.kha.2024/)
-[![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Khanguyen2005)
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:nguyendamkha@gmail.com)
+[![](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/nguyendamkha25/)
+[![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge\&logo=facebook\&logoColor=white)](https://www.facebook.com/nguyen.am.kha.2024/)
+[![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Khanguyen2005)
 
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=130&section=footer&text=Thanks%20for%20visiting%20my%20system%20board%20%E2%9A%A1&fontSize=22&fontColor=38BDF8" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=120&section=footer&text=Thanks%20for%20visiting!%20⚡&fontSize=22&fontColor=38BDF8" width="100%" />
 </div>
