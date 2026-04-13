@@ -2,12 +2,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=210&section=header&text=Nguyen%20Dam%20Kha&fontSize=46&fontColor=38BDF8&desc=Backend%20Developer%20(.NET)%20%7C%20Software%20Engineering%20Student&descAlignY=66&animation=fadeIn" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=980&lines=3rd-year+Software+Engineering+student+%40+HUFLIT;Incoming+Backend+Developer+%28.NET%29+Intern;Learn+by+Doing+%7C+Build+it%2C+break+it%2C+fix+it" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=980&lines=3rd-year+Software+Engineering+student+%40+HUFLIT;Incoming+Backend+Developer+%28.NET%29+Intern;Solid+in+OOP+%7C+Learning+Design+Patterns;Exploring+N-Tier+%26+Clean+Architecture" alt="Typing SVG" />
 
 <br/>
 
-![](https://img.shields.io/badge/Focus-Backend%20Architecture-0F172A?style=for-the-badge&logo=buffer&logoColor=38BDF8)
-![](https://img.shields.io/badge/Pattern-N--Tier%20%26%20Clean%20Architecture-111827?style=for-the-badge&logo=framework&logoColor=22D3EE)
+![](https://img.shields.io/badge/Focus-Backend%20Fundamentals-0F172A?style=for-the-badge&logo=buffer&logoColor=38BDF8)
+![](https://img.shields.io/badge/Exploring-N--Tier%20%26%20Design%20Patterns-111827?style=for-the-badge&logo=framework&logoColor=22D3EE)
 ![](https://img.shields.io/badge/Mindset-Learn%20by%20Doing-1E293B?style=for-the-badge&logo=bookstack&logoColor=67E8F9)
 
 </div>
