@@ -94,13 +94,21 @@ public class NguyenDamKha
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Khanguyen2005&theme=tokyonight" alt="GitHub stats" />
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Khanguyen2005&theme=tokyonight" alt="Top languages by repo" />
-</div>
+<div align="center"> <!-- Summary Cards --> <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Khanguyen2005&theme=tokyonight"/> <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Khanguyen2005&theme=tokyonight"/> <!-- Primary Language Highlight -->
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Khanguyen2005&theme=tokyonight&hide_border=true" />
+<br/><br/>
+<img src="https://img.shields.io/badge/Primary%20Language-C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+
+<!-- Top Languages -->
+
+<br/><br/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Khanguyen2005&layout=compact&theme=tokyonight&langs_count=6&v=2" />
+
+<!-- Streak -->
+
+<br/><br/>
+<img src="https://streak-stats.demolab.com?user=Khanguyen2005&theme=tokyonight&hide_border=true"/>
+
 </div>
 
 ---
