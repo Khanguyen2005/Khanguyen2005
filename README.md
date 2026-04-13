@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=210&section=header&text=Nguyen%20Dam%20Kha&fontSize=46&fontColor=38BDF8&desc=Backend%20Architecture%20%7C%20N-Tier%20Thinking%20%7C%20Clean%20Code&descAlignY=66&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=210&section=header&text=Nguyen%20Dam%20Kha&fontSize=46&fontColor=38BDF8&desc=Backend%20Developer%20(.NET)%20%7C%20Software%20Engineering%20Student&descAlignY=66&animation=fadeIn" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=980&lines=3rd-year+Software+Engineering+student+%40+HUFLIT;Incoming+Backend+Developer+%28.NET%29+Intern;Learn+by+Doing+%7C+Build+it%2C+break+it%2C+fix+it" alt="Typing SVG" />
 
@@ -48,7 +48,6 @@ public class NguyenDamKha
         <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
         <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
         <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-        <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
       </td>
       <td align="center" width="25%">
         <b>Databases</b><br/><br/>
