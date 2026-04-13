@@ -11,7 +11,7 @@
 - 🎓 3rd-year **Software Engineering** student at **HUFLIT**
 - 💙 Strong passion for **Backend Development**, especially in the **.NET ecosystem**
 - 🛠️ I believe in a **"learn by doing"** approach — building real projects to grow
-- 📐 Currently learning **N-Tier Architecture**, **Clean Architecture**, and **Microservices**
+- 📐 Currently learning **N-Tier Architecture**, **Clean Architecture**
 - 🔨 Currently working on a **Real-time Auction System** using **.NET**, **Redis**, and **SignalR**
 - 🎯 Looking for a **Backend Developer (.NET) internship** opportunity
 
