@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=180&section=header&text=Nguyen%20Dam%20Kha&fontSize=44&fontColor=38BDF8&desc=Backend%20Developer%20(.NET)%20%7C%20Software%20Engineering%20Student&descAlignY=70&animation=fadeIn" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=980&lines=3rd-year+Software+Engineering+student+%40+HUFLIT;Incoming+Backend+Developer+(.NET)+Intern;Solid+in+OOP+%7C+Learning+Design+Patterns;Exploring+N-Tier+%26+Clean+Architecture" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=980&lines=3rd-year+Software+Engineering+student+%40+HUFLIT;Passionate+about+Backend+Development;Solid+in+OOP+%7C+Learning+Design+Patterns;Exploring+N-Tier+%26+Clean+Architecture" />
 
 <br/>
 
@@ -21,9 +21,16 @@
 public class NguyenDamKha
 {
     public string Role => "3rd-year Software Engineering student @ HUFLIT";
-    public string CurrentMilestone => "Incoming Backend Developer (.NET) Intern (Starting April 20)";
-    public string LearningPath => "Focusing on .NET fundamentals & writing clean code";
-    public string Philosophy => "Learn by doing.";
+    public string TechnicalFocus => "Backend Development & Problem Solving";
+    
+    public string[] CoreStrengths => new[] 
+    {
+        "Object-Oriented Programming (OOP)",
+        "Design Patterns (Factory, Strategy, etc.)",
+        "N-Tier Architecture"
+    };
+
+    public string Philosophy => "Building robust systems & writing clean code. Learn by doing.";
 
     public string[] Interests => new[]
     {
