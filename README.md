@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=180&section=header&text=Nguyen%20Dam%20Kha&fontSize=44&fontColor=38BDF8&desc=Backend%20Developer%20(.NET)%20%7C%20Software%20Engineering%20Student&descAlignY=70&animation=fadeIn" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=980&lines=3rd-year+Software+Engineering+student+%40+HUFLIT;Passionate+about+Backend+Development;Solid+in+OOP+%7C+Learning+Design+Patterns;Exploring+N-Tier+%26+Clean+Architecture" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=980&lines=3rd-year+Software+Engineering+student+%40+HUFLIT;Passionate+about+Backend+Development;Solid+in+OOP+%7C+Learning+Design+Patterns;Exploring+N-Tier" />
 
 <br/>
 
